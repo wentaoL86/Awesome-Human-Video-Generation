@@ -13,13 +13,13 @@ Here are some Demo results from latest repository/Paper.
         <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/9c4d852e-0a99-4607-8d63-569a1f67a8d2" muted="false"></video>
     </td>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/demo/monalisa_running.mp4" muted="false"></video>
+        <video controls autoplay loop src="demo/monalisa_running.mp4" muted="false"></video>
     </td>
 </tr>
 
 <tr>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/17b907cc-c97e-43cd-af18-b646393c8e8a" muted="false"></video>
+        <video controls autoplay loop src="demo/monalisa_running.mp4" muted="false"></video>
     </td>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/86f2f6d2-df60-4333-b19b-4c5abcd5999d" muted="false"></video>
