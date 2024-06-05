@@ -2,23 +2,34 @@
 A curated list of recent human body video generation method.
 This repository focus on half/full body human body video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not included.
 
-<p align="center">
-<img src="https://makeavideo.studio/assets/overview.webp" width="240px"/>
-<img src="https://makeavideo.studio/assets/A_teddy_bear_painting_a_portrait.webp" width="240px"/>    
-</p>
+## AnimateAnyone  
 
-<p align="center">
-<img src="https://tuneavideo.github.io/assets/teaser.gif" width="480px"/>  
-</p>
+Here are some AnimateAnyone results we generated, with the resolution of 512x768.
 
-<p align="center">
-<img src="https://github.com/ChenyangQiQi/FateZero/blob/main/docs/gif_results/17_car_posche_01_concat_result.gif?raw=true" width="240px"/>
-<img src="https://github.com/ChenyangQiQi/FateZero/blob/main/docs/gif_results/3_sunflower_vangogh_conat_result.gif?raw=true" width="240px"/>    
-</p>
+https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/f0454f30-6726-4ad4-80a7-5b7a15619057
 
-<p align="center">
-(Source: <a href="https://makeavideo.studio/">Make-A-Video</a>, <a href="https://tuneavideo.github.io/">Tune-A-Video</a>, and <a href="https://fate-zero-edit.github.io/">Fate/Zero</a>.)
-</p>
+https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/337ff231-68a3-4760-a9f9-5113654acf48
+
+<table class="center">
+    
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/9c4d852e-0a99-4607-8d63-569a1f67a8d2" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/722c6535-2901-4e23-9de9-501b22306ebd" muted="false"></video>
+    </td>
+</tr>
+
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/17b907cc-c97e-43cd-af18-b646393c8e8a" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/86f2f6d2-df60-4333-b19b-4c5abcd5999d" muted="false"></video>
+    </td>
+</tr>
+</table>
 
 
 ## Table of Contents <!-- omit in toc -->
