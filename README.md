@@ -4,7 +4,7 @@ This repository focus on half/full body human body video generation method, The 
 
 ## human body video Demo  
 
-Here are some Demo results from latest repository/Paper.
+Here are some Demo results from latest repository/paper.
 
 <table class="center">
     
