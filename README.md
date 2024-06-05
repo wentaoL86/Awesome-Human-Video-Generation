@@ -6,10 +6,6 @@ This repository focus on half/full body human body video generation method, The 
 
 Here are some AnimateAnyone results we generated, with the resolution of 512x768.
 
-https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/f0454f30-6726-4ad4-80a7-5b7a15619057
-
-https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/337ff231-68a3-4760-a9f9-5113654acf48
-
 <table class="center">
     
 <tr>
