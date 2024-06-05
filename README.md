@@ -1,5 +1,6 @@
 # Awesome-Human-Body-Video-Generation
-A curated list of recent diffusion models for video generation, editing, restoration, understanding, nerf, etc.
+A curated list of recent human body video generation method.
+This repository focus on half/full body human body video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not included.
 
 <p align="center">
 <img src="https://makeavideo.studio/assets/overview.webp" width="240px"/>
