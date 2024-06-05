@@ -4,7 +4,7 @@ This repository focus on half/full body human body video generation method, The 
 
 ## AnimateAnyone  
 
-Here are some AnimateAnyone results we generated, with the resolution of 512x768.
+Here are some Demo results from latest repository/Paper.
 
 <table class="center">
     
