@@ -6,7 +6,7 @@
 A curated list of recent human body video generation method.
 This repository focus on half/full body human body video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not included.
 
-## human body video Demo  
+## Human Body Video Demo  
 
 Here are some Demo results from latest repository/paper.
 
