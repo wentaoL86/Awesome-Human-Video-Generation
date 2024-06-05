@@ -13,7 +13,7 @@ Here are some Demo results from latest repository/Paper.
         <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/9c4d852e-0a99-4607-8d63-569a1f67a8d2" muted="false"></video>
     </td>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://showlab.github.io/magicanimate/assets/app/unseen/vermeer_yoga.mp4" muted="false"></video>
+        <video controls autoplay loop src="demo/monalisa_running.mp4" muted="false"></video>
     </td>
 </tr>
 
