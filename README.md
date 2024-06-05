@@ -10,10 +10,10 @@ Here are some Demo results from latest repository/Paper.
     
 <tr>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="[animate.mp4]https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/9c4d852e-0a99-4607-8d63-569a1f67a8d2" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/9c4d852e-0a99-4607-8d63-569a1f67a8d2" muted="false"></video>
     </td>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="[magicanimate.mp4](https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/6188bcc2-5653-4fe5-8cbd-43ca09bf42a9)" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/6188bcc2-5653-4fe5-8cbd-43ca09bf42a9" muted="false"></video>
     </td>
 </tr>
 
@@ -21,16 +21,10 @@ Here are some Demo results from latest repository/Paper.
 
 <tr>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="[monalisa_running.mp4](https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/f0cbcdd6-e543-446a-9358-f6856cd198d0)" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/f0cbcdd6-e543-446a-9358-f6856cd198d0" muted="false"></video>
     </td>
-
-
-
-
-
-
     <td width=50% style="border: none">
-        <video controls autoplay loop src="[https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/86f2f6d2-df60-4333-b19b-4c5abcd5999d](https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/f312ae71-ac26-49cf-a98c-74060a39ec1b)" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/f312ae71-ac26-49cf-a98c-74060a39ec1b" muted="false"></video>
     </td>
 </tr>
 </table>
