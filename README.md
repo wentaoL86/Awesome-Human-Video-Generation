@@ -10,21 +10,23 @@ Here are some Demo results from latest repository/Paper.
     
 <tr>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/MooreThreads/Moore-AnimateAnyone/assets/138439222/9c4d852e-0a99-4607-8d63-569a1f67a8d2" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/6fadf315-aacb-4fce-81ed-09e593fdb472" muted="false"></video>
     </td>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/6188bcc2-5653-4fe5-8cbd-43ca09bf42a9" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/102c3ace-2f01-4b95-bcaf-87b182925033" muted="false"></video>
     </td>
 </tr>
 
 
 
+
+
 <tr>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/f0cbcdd6-e543-446a-9358-f6856cd198d0" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/91343897-0412-4e89-b29f-27b32016eafb" muted="false"></video>
     </td>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/f312ae71-ac26-49cf-a98c-74060a39ec1b" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/274d8dec-5425-405f-a74c-2c9185eaf1e4" muted="false"></video>
     </td>
 </tr>
 </table>
