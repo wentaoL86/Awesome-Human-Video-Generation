@@ -36,13 +36,6 @@ Here are some Demo results from latest repository/Paper.
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Video Generation](#video-generation)
-- [Video Editing](#video-editing)
-- [Long-form Video Generation and Completion](#long-form-video-generation-and-completion)
-- [Human or Subject Motion](#human-or-subject-motion)
-- [Video Enhancement and Restoration](#video-enhancement-and-restoration)
-- [3D / NeRF](#3d--nerf)
-- [Video Understanding](#video-understanding)
-- [Healthcare and Biology](#healthcare-and-biology)
 
 ### Open-source Toolboxes and Foundation Models 
 + [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  
