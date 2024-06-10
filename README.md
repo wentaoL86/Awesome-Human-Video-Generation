@@ -43,8 +43,8 @@ Here are some Demo results from latest repository/paper.
 
 ### human video generation 
 + [Animateanyohne](https://arxiv.org/pdf/2311.17117)  
-  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/MooreThreads/Moore-AnimateAnyone?tab=readme-ov-file#train)
-  [![Website](https://img.shields.io/badge/Website-9cf)]([https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md](https://humanaigc.github.io/animate-anyone/))
+  [![Star](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone.svg?style=social&label=Star)](https://github.com/MooreThreads/Moore-AnimateAnyone?tab=readme-ov-file#train)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/)
 
 + [Open-Sora](https://github.com/hpcaitech/Open-Sora)  
   [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)
