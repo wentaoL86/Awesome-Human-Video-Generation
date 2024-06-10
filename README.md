@@ -38,8 +38,6 @@ Here are some Demo results from latest repository/paper.
 
 ## Table of Contents <!-- omit in toc -->
 - [Human Video Generation](#human-video-generation)
-- [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
-- [Video Generation](#video-generation)
 
 ### human video generation 
 + [Animateanyohne](https://arxiv.org/pdf/2311.17117)
@@ -52,6 +50,11 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/yumingj/Text2Performer.svg?style=social&label=Star)](https://github.com/yumingj/Text2Performer)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yumingj.github.io/projects/Text2Performer.html)
 
+
++ [ID-Animator](https://arxiv.org/abs/2404.15275)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275)
+  [![Star](https://img.shields.io/github/stars/ID-Animator/ID-Animator.svg?style=social&label=Star)](https://github.com/ID-Animator/ID-Animator)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://id-animator.github.io/)
 
 
 
