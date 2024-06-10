@@ -39,7 +39,7 @@ Here are some Demo results from latest repository/paper.
 ## Table of Contents <!-- omit in toc -->
 - [Human Video Generation](#human-video-generation)
 - [Try on Video generation](#Try-on-Video-generation)
-- 
+  
 ### Human Video Generation 
 + [Animateanyone](https://arxiv.org/pdf/2311.17117)
   
