@@ -66,3 +66,8 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/dreamoving/dreamoving-project.svg?style=social&label=Star)](https://github.com/dreamoving/dreamoving-project)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamoving.github.io/dreamoving/)
 
++ [MagicPose](https://boese0601.github.io/magicdance/)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.12052)
+  [![Star](https://img.shields.io/github/stars/Boese0601/MagicDance.svg?style=social&label=Star)](https://github.com/Boese0601/MagicDance)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://boese0601.github.io/magicdance/)
