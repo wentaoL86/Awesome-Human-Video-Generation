@@ -38,7 +38,8 @@ Here are some Demo results from latest repository/paper.
 
 ## Table of Contents <!-- omit in toc -->
 - [Human Video Generation](#human-video-generation)
-
+- [Try on Video generation](#Try-on-Video-generation)
+- 
 ### Human Video Generation 
 + [Animateanyone](https://arxiv.org/pdf/2311.17117)
   
@@ -105,3 +106,9 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/#/)
 
+### Try on Video generation
+
++ [wFlow](https://awesome-wflow.github.io/)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://awesome-wflow.github.io/)
