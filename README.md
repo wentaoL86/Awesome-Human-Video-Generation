@@ -71,3 +71,14 @@ Here are some Demo results from latest repository/paper.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.12052)
   [![Star](https://img.shields.io/github/stars/Boese0601/MagicDance.svg?style=social&label=Star)](https://github.com/Boese0601/MagicDance)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://boese0601.github.io/magicdance/)
+
++ [LEO](https://wyhsirius.github.io/LEO-project/)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03989)
+  [![Star](https://img.shields.io/github/stars/wyhsirius/LEO.svg?style=social&label=Star)](https://github.com/wyhsirius/LEO)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wyhsirius.github.io/LEO-project/)
+
++ [LEO](https://github.com/TMElyralab/MuseV)
+
+  [![Star](https://img.shields.io/github/stars/TMElyralab/MuseV.svg?style=social&label=Star)](https://github.com/TMElyralab/MuseV)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tmelyralab.github.io/MuseV_Page/)
