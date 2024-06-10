@@ -39,7 +39,7 @@ Here are some Demo results from latest repository/paper.
 ## Table of Contents <!-- omit in toc -->
 - [Human Video Generation](#human-video-generation)
 
-### human video generation 
+### Human Video Generation 
 + [Animateanyohne](https://arxiv.org/pdf/2311.17117)
   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17117)
@@ -60,4 +60,9 @@ Here are some Demo results from latest repository/paper.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://id-animator.github.io/)
 
 
++ [DreaMoving](https://dreamoving.github.io/dreamoving/)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05107)
+  [![Star](https://img.shields.io/github/stars/dreamoving/dreamoving-project.svg?style=social&label=Star)](https://github.com/dreamoving/dreamoving-project)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamoving.github.io/dreamoving/)
 
