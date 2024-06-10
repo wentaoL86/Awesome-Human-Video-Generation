@@ -40,7 +40,7 @@ Here are some Demo results from latest repository/paper.
 - [Human Video Generation](#human-video-generation)
 
 ### Human Video Generation 
-+ [Animateanyohne](https://arxiv.org/pdf/2311.17117)
++ [Animateanyone](https://arxiv.org/pdf/2311.17117)
   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17117)
   [![Star](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone.svg?style=social&label=Star)](https://github.com/MooreThreads/Moore-AnimateAnyone?tab=readme-ov-file#train)
@@ -78,7 +78,30 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/wyhsirius/LEO.svg?style=social&label=Star)](https://github.com/wyhsirius/LEO)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wyhsirius.github.io/LEO-project/)
 
-+ [LEO](https://github.com/TMElyralab/MuseV)
++ [MuseV](https://github.com/TMElyralab/MuseV)
 
   [![Star](https://img.shields.io/github/stars/TMElyralab/MuseV.svg?style=social&label=Star)](https://github.com/TMElyralab/MuseV)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tmelyralab.github.io/MuseV_Page/)
+
++ [MusePose](https://github.com/TMElyralab/MusePose)
+  
+  [![Star](https://img.shields.io/github/stars/TMElyralab/MusePose.svg?style=social&label=Star)](https://github.com/TMElyralab/MusePose)
+
++ [MagicAnimate](https://showlab.github.io/magicanimate/)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498)
+  [![Star](https://img.shields.io/github/stars/magic-research/magic-animate.svg?style=social&label=Star)](https://github.com/magic-research/magic-animate)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/magicanimate/)
+
++ [MagicAnimate](https://github.com/ali-vilab/UniAnimate)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01188)
+  [![Star](https://img.shields.io/github/stars/ali-vilab/UniAnimate.svg?style=social&label=Star)](https://github.com/ali-vilab/UniAnimate)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://unianimate.github.io/)
+
++ [Champ](https://github.com/fudan-generative-vision/champ)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
+  [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/#/)
+
