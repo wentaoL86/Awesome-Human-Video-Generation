@@ -37,11 +37,11 @@ Here are some Demo results from latest repository/paper.
 
 
 ## Table of Contents <!-- omit in toc -->
-- [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
+- [Human Video Generation](#human-video-generation)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Video Generation](#video-generation)
 
-### Open-source Toolboxes and Foundation Models 
+### human video generation 
 + [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md)
