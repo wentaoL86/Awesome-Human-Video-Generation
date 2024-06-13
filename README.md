@@ -122,6 +122,11 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/thuhcsi/S2G-MDDiffusion.svg?style=social&label=Star)](https://github.com/thuhcsi/S2G-MDDiffusion)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://thuhcsi.github.io/S2G-MDDiffusion/)
 
++ [ANGIE](https://github.com/thuhcsi/S2G-MDDiffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.02350)
+  [![Star](https://img.shields.io/github/stars/alvinliu0/ANGIE.svg?style=social&label=Star)](https://github.com/alvinliu0/ANGIEn)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://alvinliu0.github.io/projects/ANGIE)
+
 ### Try on Video generation
 
 + [wFlow](https://awesome-wflow.github.io/)
