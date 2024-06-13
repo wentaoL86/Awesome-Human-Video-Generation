@@ -105,6 +105,16 @@ Here are some Demo results from latest repository/paper.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10718v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://signllm.github.io/)
 
++ [Magic-Me](https://github.com/zhen-dong/magic-me)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2402.09368)
+  [![Star](https://img.shields.io/github/stars/Zhen-Dong/Magic-Me.svg?style=social&label=Star)](https://github.com/Zhen-Dong/Magic-Me)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://magic-me-webpage.github.io/)
+
++ [Disco](https://disco-dance.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040)
+  [![Star](https://img.shields.io/github/stars/Wangt-CN/DisCo.svg?style=social&label=Star)](https://github.com/Wangt-CN/DisCo)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://disco-dance.github.io/)
+
 ### Co-Speech Gesture Video Generation
 
 + [S2G-MDDiffusion](https://github.com/thuhcsi/S2G-MDDiffusion)
