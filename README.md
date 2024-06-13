@@ -90,7 +90,7 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/magic-research/magic-animate.svg?style=social&label=Star)](https://github.com/magic-research/magic-animate)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/magicanimate/)
 
-+ [MagicAnimate](https://github.com/ali-vilab/UniAnimate)
++ [UniAnimate](https://github.com/ali-vilab/UniAnimate)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01188)
   [![Star](https://img.shields.io/github/stars/ali-vilab/UniAnimate.svg?style=social&label=Star)](https://github.com/ali-vilab/UniAnimate)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://unianimate.github.io/)
