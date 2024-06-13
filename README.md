@@ -108,6 +108,11 @@ Here are some Demo results from latest repository/paper.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://awesome-wflow.github.io/)
 
 ### Applications
++ [Keling](https://kling.kuaishou.com/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kling.kuaishou.com/)
 
++ [Viggle](https://viggle.ai/)
+  [![Star](https://img.shields.io/github/stars/hoachen/veggieai-generate-video.svg?style=social&label=Star)](https://github.com/hoachen/veggieai-generate-video)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://viggle.ai/)
 
 ### Datasets
