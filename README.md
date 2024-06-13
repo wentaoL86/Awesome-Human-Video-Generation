@@ -115,6 +115,13 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/Wangt-CN/DisCo.svg?style=social&label=Star)](https://github.com/Wangt-CN/DisCo)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://disco-dance.github.io/)
 
++ [TwoStreamVAN](https://arxiv.org/pdf/1812.01037)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1812.01037)
+  [![Star](https://img.shields.io/github/stars/sunxm2357/TwoStreamVAN.svg?style=social&label=Star)](https://github.com/sunxm2357/TwoStreamVAN)
+
++ [MoCoGAN](https://github.com/sergeytulyakov/mocogan)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1707.04993)
+  [![Star](https://img.shields.io/github/stars/sergeytulyakov/mocogan.svg?style=social&label=Star)](https://github.com/sergeytulyakov/mocogan)
 
 ### Pose Guided Human Video Generation
 
@@ -127,6 +134,12 @@ Here are some Demo results from latest repository/paper.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Human_Motion_Aware_Text-to-Video_Generation_With_Explicit_Camera_Control_WACV_2024_paper.pdf2)
   [![Star](https://img.shields.io/github/stars/CSJasper/HMTV.svg?style=social&label=Star)](https://github.com/CSJasper/HMTV)
 
++ [PSGAN](https://arxiv.org/pdf/1807.11152v1)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1807.11152v1)
+
++ [DwNet](https://arxiv.org/pdf/1910.09139)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1910.091396)
+  [![Star](https://img.shields.io/github/stars/ubc-vision/DwNet.svg?style=social&label=Star)](https://github.com/ubc-vision/DwNet)
 
 ### Co-Speech Gesture Video Generation
 
