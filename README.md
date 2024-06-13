@@ -123,6 +123,12 @@ Here are some Demo results from latest repository/paper.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1707.04993)
   [![Star](https://img.shields.io/github/stars/sergeytulyakov/mocogan.svg?style=social&label=Star)](https://github.com/sergeytulyakov/mocogan)
 
++ [Pose-Guided Human Animation from a Single Image in the Wild](https://arxiv.org/pdf/2012.03796)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.03796)
+
+
+
+
 ### Pose Guided Human Video Generation
 
 + [FollowYourPose](https://github.com/mayuelala/followyourpose)
@@ -140,6 +146,7 @@ Here are some Demo results from latest repository/paper.
 + [DwNet](https://arxiv.org/pdf/1910.09139)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1910.091396)
   [![Star](https://img.shields.io/github/stars/ubc-vision/DwNet.svg?style=social&label=Star)](https://github.com/ubc-vision/DwNet)
+
 
 ### Co-Speech Gesture Video Generation
 
