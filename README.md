@@ -4,7 +4,10 @@
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 A curated list of recent human body video generation method.
-This repository focus on half/full body human body video generation method, The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait is not included.
+
+This repository focus on half/full body human video generation research work, Application and Datasets.
+
+The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait will not included if it does not consider the human appearance.
 
 ## Human Body Video Demo  
 
