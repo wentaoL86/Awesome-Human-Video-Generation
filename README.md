@@ -42,6 +42,7 @@ Here are some Demo results from latest repository/paper.
 ## Table of Contents <!-- omit in toc -->
 - [Human Video Generation](#human-video-generation)
 - [Try on Video generation](#Try-on-Video-generation)
+- [Co-Speech Gesture Video Generation](#Co-Speech-Gesture-Video-Generation)
 - [Applications](#Applications)
 - [Datasets](#Datasets)
   
@@ -103,6 +104,8 @@ Here are some Demo results from latest repository/paper.
 + [SignLLM](https://signllm.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10718v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://signllm.github.io/)
+
+### Co-Speech Gesture Video Generation
 
 ### Try on Video generation
 
