@@ -39,81 +39,75 @@ Here are some Demo results from latest repository/paper.
 ## Table of Contents <!-- omit in toc -->
 - [Human Video Generation](#human-video-generation)
 - [Try on Video generation](#Try-on-Video-generation)
+- [Applications](#Applications)
+- [Datasets](#Datasets)
   
 ### Human Video Generation 
 + [Animateanyone](https://arxiv.org/pdf/2311.17117)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17117)
   [![Star](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone.svg?style=social&label=Star)](https://github.com/MooreThreads/Moore-AnimateAnyone?tab=readme-ov-file#train)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/)
 
 + [Text2Performer](https://github.com/hpcaitech/Open-Sora)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.08483)
   [![Star](https://img.shields.io/github/stars/yumingj/Text2Performer.svg?style=social&label=Star)](https://github.com/yumingj/Text2Performer)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yumingj.github.io/projects/Text2Performer.html)
 
 
 + [ID-Animator](https://arxiv.org/abs/2404.15275)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275)
   [![Star](https://img.shields.io/github/stars/ID-Animator/ID-Animator.svg?style=social&label=Star)](https://github.com/ID-Animator/ID-Animator)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://id-animator.github.io/)
 
 
 + [DreaMoving](https://dreamoving.github.io/dreamoving/)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05107)
   [![Star](https://img.shields.io/github/stars/dreamoving/dreamoving-project.svg?style=social&label=Star)](https://github.com/dreamoving/dreamoving-project)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamoving.github.io/dreamoving/)
 
 + [MagicPose](https://boese0601.github.io/magicdance/)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.12052)
   [![Star](https://img.shields.io/github/stars/Boese0601/MagicDance.svg?style=social&label=Star)](https://github.com/Boese0601/MagicDance)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://boese0601.github.io/magicdance/)
 
 + [LEO](https://wyhsirius.github.io/LEO-project/)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03989)
   [![Star](https://img.shields.io/github/stars/wyhsirius/LEO.svg?style=social&label=Star)](https://github.com/wyhsirius/LEO)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wyhsirius.github.io/LEO-project/)
 
 + [MuseV](https://github.com/TMElyralab/MuseV)
-
   [![Star](https://img.shields.io/github/stars/TMElyralab/MuseV.svg?style=social&label=Star)](https://github.com/TMElyralab/MuseV)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tmelyralab.github.io/MuseV_Page/)
 
 + [MusePose](https://github.com/TMElyralab/MusePose)
-  
   [![Star](https://img.shields.io/github/stars/TMElyralab/MusePose.svg?style=social&label=Star)](https://github.com/TMElyralab/MusePose)
 
 + [MagicAnimate](https://showlab.github.io/magicanimate/)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498)
   [![Star](https://img.shields.io/github/stars/magic-research/magic-animate.svg?style=social&label=Star)](https://github.com/magic-research/magic-animate)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/magicanimate/)
 
 + [MagicAnimate](https://github.com/ali-vilab/UniAnimate)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01188)
   [![Star](https://img.shields.io/github/stars/ali-vilab/UniAnimate.svg?style=social&label=Star)](https://github.com/ali-vilab/UniAnimate)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://unianimate.github.io/)
 
 + [Champ](https://github.com/fudan-generative-vision/champ)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
   [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/#/)
 
 + [SignLLM](https://signllm.github.io/)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10718v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://signllm.github.io/)
 
 ### Try on Video generation
 
 + [wFlow](https://awesome-wflow.github.io/)
-  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://awesome-wflow.github.io/)
+
+### Applications
+
+
+### Datasets
