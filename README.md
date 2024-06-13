@@ -115,6 +115,19 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/Wangt-CN/DisCo.svg?style=social&label=Star)](https://github.com/Wangt-CN/DisCo)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://disco-dance.github.io/)
 
+
+### Pose Guided Human Video Generation
+
++ [FollowYourPose](https://github.com/mayuelala/followyourpose)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
+  [![Star](https://img.shields.io/github/stars/mayuelala/followyourpose.svg?style=social&label=Star)](https://github.com/mayuelala/followyourpose)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://follow-your-pose.github.io/)
+
++ [HMTV](https://github.com/CSJasper/HMTV)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Human_Motion_Aware_Text-to-Video_Generation_With_Explicit_Camera_Control_WACV_2024_paper.pdf2)
+  [![Star](https://img.shields.io/github/stars/CSJasper/HMTV.svg?style=social&label=Star)](https://github.com/CSJasper/HMTV)
+
+
 ### Co-Speech Gesture Video Generation
 
 + [S2G-MDDiffusion](https://github.com/thuhcsi/S2G-MDDiffusion)
