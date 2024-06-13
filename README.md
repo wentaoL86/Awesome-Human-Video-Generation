@@ -106,6 +106,11 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/#/)
 
++ [SignLLM](https://signllm.github.io/)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10718v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://signllm.github.io/)
+
 ### Try on Video generation
 
 + [wFlow](https://awesome-wflow.github.io/)
