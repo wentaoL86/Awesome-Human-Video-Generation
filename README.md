@@ -107,6 +107,11 @@ Here are some Demo results from latest repository/paper.
 
 ### Co-Speech Gesture Video Generation
 
++ [S2G-MDDiffusion](https://github.com/thuhcsi/S2G-MDDiffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01862)
+  [![Star](https://img.shields.io/github/stars/thuhcsi/S2G-MDDiffusion.svg?style=social&label=Star)](https://github.com/thuhcsi/S2G-MDDiffusion)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://thuhcsi.github.io/S2G-MDDiffusion/)
+
 ### Try on Video generation
 
 + [wFlow](https://awesome-wflow.github.io/)
