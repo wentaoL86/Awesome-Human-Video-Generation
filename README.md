@@ -174,4 +174,8 @@ Here are some Demo results from latest repository/paper.
   [![Star](https://img.shields.io/github/stars/hoachen/veggieai-generate-video.svg?style=social&label=Star)](https://github.com/hoachen/veggieai-generate-video)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://viggle.ai/)
 
++ [Luma](https://lumalabs.ai/dream-machine)
+  [![Website](https://lumalabs.ai/dream-machine)
+
+
 ### Datasets
