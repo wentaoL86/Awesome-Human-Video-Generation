@@ -175,7 +175,7 @@ Here are some Demo results from latest repository/paper.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://viggle.ai/)
 
 + [Luma](https://lumalabs.ai/dream-machine)
-  [![Website](https://lumalabs.ai/dream-machine)
+  [![Website]](https://lumalabs.ai/dream-machine)
 
 
 ### Datasets
