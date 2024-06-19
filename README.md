@@ -3,7 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-A curated list of recent human body video generation method.
+A continuously updated project to track the latest progress in human video generation.
+
+#### If this repository can bring you some inspiration, we would feel greatly honored.
+#### If you like our project, please give us a star ⭐ on this GitHub.
+#### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
 
 This repository focus on half/full body human video generation research work, Application and Datasets.
 
