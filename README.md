@@ -5,9 +5,9 @@
 
 A continuously updated project to track the latest progress in human video generation.
 
-#### If this repository can bring you some inspiration, we would feel greatly honored.
+#### We would feel quite insprised if this repository can bring you some insights.
 #### If you like our project, please give us a star ⭐ on this GitHub.
-#### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
+#### If you have any suggestions, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 This repository focus on half/full body human video generation research work, Application and Datasets.
 
