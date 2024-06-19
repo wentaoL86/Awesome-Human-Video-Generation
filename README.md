@@ -167,6 +167,8 @@ Here are some Demo results from latest repository/paper.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://awesome-wflow.github.io/)
 
+### Dance Video Generation
+
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kling.kuaishou.com/)
