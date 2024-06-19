@@ -9,9 +9,6 @@ A continuously updated project to track the latest progress in human video gener
 #### If you like our project, please give us a star ⭐ on this GitHub.
 #### If you have any suggestions, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
-This repository focus on half/full body human video generation research work, Application and Datasets.
-
-The Nerf, Gaussian splashing, Motion Pose, and talking head/Portrait will not included if it does not consider the human appearance and hand and body motion.
 
 ## Human Body Video Demo  
 
