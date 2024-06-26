@@ -192,3 +192,4 @@ Here are some Demo results from latest repository/paper.
 + [Bold](https://cydar.ist.psu.edu/emotionchallenge/dataset.php)
 + [DeepFashion](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 + [Taichi](https://github.com/AliaksandrSiarohin/video-preprocessing)
++ [Ubody](https://osx-ubody.github.io/)
