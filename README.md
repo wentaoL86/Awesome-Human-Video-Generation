@@ -130,7 +130,8 @@ Here are some Demo results from latest repository/paper.
 + [Pose-Guided Human Animation from a Single Image in the Wild](https://arxiv.org/pdf/2012.03796)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2012.03796)
 
-
++ [MimicMotion](https://arxiv.org/abs/2406.19680)
+  [![arXiv](https://arxiv.org/abs/2406.19680)
 
 
 ### Pose Guided Human Video Generation
