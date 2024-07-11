@@ -11,7 +11,7 @@ A continuously updated project to track the latest progress in human video gener
 
 ## :collision: Highlights
 - 2024.07.11: The Survey Paper will be Online [arXiv]().
-- 2024.06.5: Awesome MMOT Project Started.
+- 2024.06.5: Awesome Human Video Generation Repository Started.
 
 ## Human Body Video Demo  
 
