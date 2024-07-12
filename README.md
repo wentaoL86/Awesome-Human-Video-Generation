@@ -44,6 +44,19 @@ Here are some Demo results from latest repository/paper.
 </tr>
 </table>
 
+## Citation
+
+If you find our work useful in your research, please consider citing:
+```
+
+@article{lei2024humanvideo,
+      title={A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights}, 
+      author={Wentao Lei and Jinting Wang and Fengji Ma and Guanjie Huang and Li Liu},
+      journal={arXiv preprint arXiv:2407.08428},
+      year={2024}
+}
+```
+
 
 ## Table of Contents <!-- omit in toc -->
 - [Human Video Generation](#human-video-generation)
