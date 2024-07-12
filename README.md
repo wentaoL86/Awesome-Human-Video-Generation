@@ -208,6 +208,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Dance Video Generation
 
+### Performance Video Generation
++ [Music2Play](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
+
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kling.kuaishou.com/)
