@@ -3,13 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-#### This is a repository with survey papre : ["A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights"](https://arxiv.org/abs/2407.08428). 
+#### This is a repository with our survey paper : ["A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights"](https://arxiv.org/abs/2407.08428). 
 
 #### It is a continuously updated project to track the latest progress in human video generation.
 
 #### We would feel quite insprised if this repository can bring you some insights.
 #### If you like our project, please give us a star ⭐ on this GitHub.
-#### If you have any suggestions, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
+#### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
 - 2024.07.12: The Survey Paper is Online [arXiv](https://arxiv.org/abs/2407.08428).
