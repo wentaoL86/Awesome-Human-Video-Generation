@@ -12,7 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
-- 2024.07.12: The Survey Paper is Online [arXiv](https://arxiv.org/abs/2407.08428).
+- 2024.07.12: The Survey Paper is Online on [arXiv](https://arxiv.org/abs/2407.08428).
 - 2024.06.5: Awesome Human Video Generation Repository Started.
 
 ## Human Body Video Demo  
@@ -42,6 +42,22 @@ Here are some Demo results from latest repository/paper.
         <video controls autoplay loop src="https://github.com/wentaoL86/Awesome-Human-Body-Video-Generation/assets/61672329/274d8dec-5425-405f-a74c-2c9185eaf1e4" muted="false"></video>
     </td>
 </tr>
+
+
+
+
+
+<tr>
+    <td width=25% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/903202b0-5850-4f17-af0e-a6c036766631" muted="false"></video>
+    </td>
+    <td width=25% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/903202b0-5850-4f17-af0e-a6c036766631" muted="false"></video>
+    </td>
+</tr>
+
+
+
 </table>
 
 ## Citation
