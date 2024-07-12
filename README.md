@@ -47,12 +47,16 @@ Here are some Demo results from latest repository/paper.
 
 
 
+
+
+
+
 <tr>
     <td width=25% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/903202b0-5850-4f17-af0e-a6c036766631" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/ae628408-c97c-49c8-ae7e-db864140e655" muted="false"></video>
     </td>
     <td width=25% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/903202b0-5850-4f17-af0e-a6c036766631" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/8c40d067-5a5f-4dcc-ac17-f13b6fbe482d" muted="false"></video>
     </td>
 </tr>
 
