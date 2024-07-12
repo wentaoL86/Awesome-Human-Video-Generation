@@ -10,7 +10,7 @@ A continuously updated project to track the latest progress in human video gener
 #### If you have any suggestions, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
-- 2024.07.11: The Survey Paper will be Online [arXiv](https://arxiv.org/abs/2407.08428).
+- 2024.07.12: The Survey Paper will be Online [arXiv](https://arxiv.org/abs/2407.08428).
 - 2024.06.5: Awesome Human Video Generation Repository Started.
 
 ## Human Body Video Demo  
