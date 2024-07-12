@@ -168,6 +168,12 @@ If you find our work useful in your research, please consider citing:
 + [MimicMotion](https://arxiv.org/abs/2406.19680)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19680)
 
++ [Human4DiT](https://arxiv.org/pdf/2405.17405)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.17405)
+
++ [FollowYourPose-v2 ](https://arxiv.org/pdf/2406.03035)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.03035)
+
 
 ### Pose Guided Human Video Generation
 
