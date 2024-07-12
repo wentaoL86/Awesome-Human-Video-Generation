@@ -207,7 +207,8 @@ If you find our work useful in your research, please consider citing:
   [![Website](https://img.shields.io/badge/Website-9cf)](https://awesome-wflow.github.io/)
 
 ### Dance Video Generation
-
++ [DanceIt](https://arxiv.org/pdf/2009.08027)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2009.08027) 
 ### Performance Video Generation
 + [Music2Play](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
