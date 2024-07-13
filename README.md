@@ -80,7 +80,7 @@ If you find our work useful in your research, please consider citing:
 
 ## Table of Contents <!-- omit in toc -->
 - [Text Guided Human Video Generation](#Text-Guided-Human-Video-Generation)
-- [Audio Guided Human Video Generation](#Try-on-Video-generation)
+- [Audio Guided Human Video Generation](#Audio-Guided-Human-Video-Generation)
 - - [Dance Video Generation](#Dance-Video-Generation)
 - - [Performance Video Generation](#Performance-Video-Generation)
 - - [Co-Speech Gesture Video Generation](#Co-Speech-Gesture-Video-Generation)
