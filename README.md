@@ -79,23 +79,67 @@ If you find our work useful in your research, please consider citing:
 
 
 ## Table of Contents <!-- omit in toc -->
-- [Human Video Generation](#human-video-generation)
-- [Try on Video generation](#Try-on-Video-generation)
-- [Co-Speech Gesture Video Generation](#Co-Speech-Gesture-Video-Generation)
+- [Text Guided Human Video Generation](#Text-Guided-Human-Video-Generation)
+- [Audio Guided Human Video Generation](#Try-on-Video-generation)
+- - [Dance Video Generation](#Dance-Video-Generation)
+- - [Performance Video Generation](#Performance-Video-Generation)
+- - [Co-Speech Gesture Video Generation](#Co-Speech-Gesture-Video-Generation)
+- [Pose Guided Human Video Generation](#Pose-Guided-Human-Video-Generation)
 - [Applications](#Applications)
 - [Datasets](#Datasets)
   
-### Human Video Generation 
-+ [Animateanyone](https://arxiv.org/pdf/2311.17117)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17117)
-  [![Star](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone.svg?style=social&label=Star)](https://github.com/MooreThreads/Moore-AnimateAnyone?tab=readme-ov-file#train)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/)
+## Text Guided Human Video Generation
++ [HMTV](https://github.com/CSJasper/HMTV)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Human_Motion_Aware_Text-to-Video_Generation_With_Explicit_Camera_Control_WACV_2024_paper.pdf2)
+  [![Star](https://img.shields.io/github/stars/CSJasper/HMTV.svg?style=social&label=Star)](https://github.com/CSJasper/HMTV)
+
++ [SignLLM](https://signllm.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10718v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://signllm.github.io/)
 
 + [Text2Performer](https://github.com/hpcaitech/Open-Sora)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.08483)
   [![Star](https://img.shields.io/github/stars/yumingj/Text2Performer.svg?style=social&label=Star)](https://github.com/yumingj/Text2Performer)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yumingj.github.io/projects/Text2Performer.html)
 
+## Audio Guided Human Video Generation
+
+### Dance Video Generation
++ [DanceIt](https://arxiv.org/pdf/2009.08027)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2009.08027) 
+### Performance Video Generation
++ [Music2Play](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
+
+### Co-Speech Gesture Video Generation
++ [S2G-MDDiffusion](https://github.com/thuhcsi/S2G-MDDiffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01862)
+  [![Star](https://img.shields.io/github/stars/thuhcsi/S2G-MDDiffusion.svg?style=social&label=Star)](https://github.com/thuhcsi/S2G-MDDiffusion)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://thuhcsi.github.io/S2G-MDDiffusion/)
+
++ [ANGIE](https://github.com/thuhcsi/S2G-MDDiffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.02350)
+  [![Star](https://img.shields.io/github/stars/alvinliu0/ANGIE.svg?style=social&label=Star)](https://github.com/alvinliu0/ANGIEn)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://alvinliu0.github.io/projects/ANGIE)
+
+## Pose Guided Human Video Generation
+
++ [FollowYourPose](https://github.com/mayuelala/followyourpose)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
+  [![Star](https://img.shields.io/github/stars/mayuelala/followyourpose.svg?style=social&label=Star)](https://github.com/mayuelala/followyourpose)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://follow-your-pose.github.io/)
+
++ [PSGAN](https://arxiv.org/pdf/1807.11152v1)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1807.11152v1)
+
++ [DwNet](https://arxiv.org/pdf/1910.09139)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1910.091396)
+  [![Star](https://img.shields.io/github/stars/ubc-vision/DwNet.svg?style=social&label=Star)](https://github.com/ubc-vision/DwNet)
+
++ [Animateanyone](https://arxiv.org/pdf/2311.17117)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17117)
+  [![Star](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone.svg?style=social&label=Star)](https://github.com/MooreThreads/Moore-AnimateAnyone?tab=readme-ov-file#train)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/)
 
 + [ID-Animator](https://arxiv.org/abs/2404.15275)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275)
@@ -140,10 +184,6 @@ If you find our work useful in your research, please consider citing:
   [![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fudan-generative-vision.github.io/champ/#/)
 
-+ [SignLLM](https://signllm.github.io/)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10718v1)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://signllm.github.io/)
-
 + [Magic-Me](https://github.com/zhen-dong/magic-me)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2402.09368)
   [![Star](https://img.shields.io/github/stars/Zhen-Dong/Magic-Me.svg?style=social&label=Star)](https://github.com/Zhen-Dong/Magic-Me)
@@ -175,49 +215,7 @@ If you find our work useful in your research, please consider citing:
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.03035)
 
 
-### Pose Guided Human Video Generation
 
-+ [FollowYourPose](https://github.com/mayuelala/followyourpose)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
-  [![Star](https://img.shields.io/github/stars/mayuelala/followyourpose.svg?style=social&label=Star)](https://github.com/mayuelala/followyourpose)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://follow-your-pose.github.io/)
-
-+ [HMTV](https://github.com/CSJasper/HMTV)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Human_Motion_Aware_Text-to-Video_Generation_With_Explicit_Camera_Control_WACV_2024_paper.pdf2)
-  [![Star](https://img.shields.io/github/stars/CSJasper/HMTV.svg?style=social&label=Star)](https://github.com/CSJasper/HMTV)
-
-+ [PSGAN](https://arxiv.org/pdf/1807.11152v1)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1807.11152v1)
-
-+ [DwNet](https://arxiv.org/pdf/1910.09139)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1910.091396)
-  [![Star](https://img.shields.io/github/stars/ubc-vision/DwNet.svg?style=social&label=Star)](https://github.com/ubc-vision/DwNet)
-
-
-### Co-Speech Gesture Video Generation
-
-+ [S2G-MDDiffusion](https://github.com/thuhcsi/S2G-MDDiffusion)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01862)
-  [![Star](https://img.shields.io/github/stars/thuhcsi/S2G-MDDiffusion.svg?style=social&label=Star)](https://github.com/thuhcsi/S2G-MDDiffusion)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://thuhcsi.github.io/S2G-MDDiffusion/)
-
-+ [ANGIE](https://github.com/thuhcsi/S2G-MDDiffusion)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.02350)
-  [![Star](https://img.shields.io/github/stars/alvinliu0/ANGIE.svg?style=social&label=Star)](https://github.com/alvinliu0/ANGIEn)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://alvinliu0.github.io/projects/ANGIE)
-
-### Try on Video generation
-
-+ [wFlow](https://awesome-wflow.github.io/)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.pdf)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://awesome-wflow.github.io/)
-
-### Dance Video Generation
-+ [DanceIt](https://arxiv.org/pdf/2009.08027)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2009.08027) 
-### Performance Video Generation
-+ [Music2Play](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
 
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
