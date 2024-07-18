@@ -214,7 +214,8 @@ If you find our work useful in your research, please consider citing:
 + [FollowYourPose-v2 ](https://arxiv.org/pdf/2406.03035)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.03035)
 
-
++ [IDOL](https://yhzhai.github.io/idol/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937)
 
 
 ### Applications
