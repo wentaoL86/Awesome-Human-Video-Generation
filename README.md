@@ -89,7 +89,7 @@ If you find our work useful in your research, please consider citing:
 - [Datasets](#Datasets)
   
 ## Text Guided Human Video Generation
-+ [HMTV](https://github.com/CSJasper/HMTV)
++ [HMTV (WACV 2024)](https://github.com/CSJasper/HMTV)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Human_Motion_Aware_Text-to-Video_Generation_With_Explicit_Camera_Control_WACV_2024_paper.pdf2)
   [![Star](https://img.shields.io/github/stars/CSJasper/HMTV.svg?style=social&label=Star)](https://github.com/CSJasper/HMTV)
 
@@ -97,7 +97,7 @@ If you find our work useful in your research, please consider citing:
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10718v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://signllm.github.io/)
 
-+ [Text2Performer](https://github.com/hpcaitech/Open-Sora)
++ [Text2Performer (ICCV2023)](https://github.com/yumingj/Text2Performer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2304.08483)
   [![Star](https://img.shields.io/github/stars/yumingj/Text2Performer.svg?style=social&label=Star)](https://github.com/yumingj/Text2Performer)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yumingj.github.io/projects/Text2Performer.html)
@@ -105,8 +105,9 @@ If you find our work useful in your research, please consider citing:
 ## Audio Guided Human Video Generation
 
 ### Dance Video Generation
-+ [DanceIt](https://arxiv.org/pdf/2009.08027)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2009.08027) 
++ [DanceIt (TIP 2021)](https://arxiv.org/pdf/2009.08027)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2009.08027)
+  [![Star](https://img.shields.io/github/stars/iCVTEAM/DanceIt.svg?style=social&label=Star)](https://github.com/iCVTEAM/DanceIt)
 ### Performance Video Generation
 + [Music2Play](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
