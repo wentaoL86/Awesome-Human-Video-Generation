@@ -109,16 +109,16 @@ If you find our work useful in your research, please consider citing:
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2009.08027)
   [![Star](https://img.shields.io/github/stars/iCVTEAM/DanceIt.svg?style=social&label=Star)](https://github.com/iCVTEAM/DanceIt)
 ### Performance Video Generation
-+ [Music2Play](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
++ [Music2Play (CAC 2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
 
 ### Co-Speech Gesture Video Generation
-+ [S2G-MDDiffusion](https://github.com/thuhcsi/S2G-MDDiffusion)
++ [S2G-MDDiffusion (CVPR 2024)](https://github.com/thuhcsi/S2G-MDDiffusion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.01862)
   [![Star](https://img.shields.io/github/stars/thuhcsi/S2G-MDDiffusion.svg?style=social&label=Star)](https://github.com/thuhcsi/S2G-MDDiffusion)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://thuhcsi.github.io/S2G-MDDiffusion/)
 
-+ [ANGIE](https://github.com/thuhcsi/S2G-MDDiffusion)
++ [ANGIE (NeurIPS 2022)](https://github.com/alvinliu0/ANGIE)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.02350)
   [![Star](https://img.shields.io/github/stars/alvinliu0/ANGIE.svg?style=social&label=Star)](https://github.com/alvinliu0/ANGIEn)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://alvinliu0.github.io/projects/ANGIE)
