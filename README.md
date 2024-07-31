@@ -218,6 +218,8 @@ If you find our work useful in your research, please consider citing:
 + [IDOL](https://yhzhai.github.io/idol/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10937)
 
++ [MagicFight](https://openreview.net/pdf?id=7JhV3Pbfgk)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=7JhV3Pbfgk)
 
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
