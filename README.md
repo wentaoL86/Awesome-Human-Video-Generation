@@ -221,6 +221,11 @@ If you find our work useful in your research, please consider citing:
 + [MagicFight](https://openreview.net/pdf?id=7JhV3Pbfgk)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=7JhV3Pbfgk)
 
++ [DiffPerformer CVPR(2024)](https://openaccess.thecvf.com//content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com//content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf)
+
+
+
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kling.kuaishou.com/)
