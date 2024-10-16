@@ -236,7 +236,8 @@ If you find our work useful in your research, please consider citing:
 + [ Animate-X ](https://arxiv.org/abs/2410.10306)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10306)
 
-
++ [ RealisDance ](https://arxiv.org/abs/2409.06202)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06202)
 
 
 
