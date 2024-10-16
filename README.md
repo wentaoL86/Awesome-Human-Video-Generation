@@ -239,6 +239,11 @@ If you find our work useful in your research, please consider citing:
 + [ RealisDance ](https://arxiv.org/abs/2409.06202)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.06202)
 
++ [ High Quality Human Image Animation using Regional
+Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19580)
+
+
 
 
 ### Applications
