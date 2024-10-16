@@ -224,6 +224,10 @@ If you find our work useful in your research, please consider citing:
 + [DiffPerformer CVPR(2024)](https://openaccess.thecvf.com//content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com//content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf)
 
++ [ Dance Your Latents ](https://arxiv.org/pdf/2310.14780)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.14780)
+
+
 
 
 ### Applications
