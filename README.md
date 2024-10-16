@@ -227,6 +227,16 @@ If you find our work useful in your research, please consider citing:
 + [ Dance Your Latents ](https://arxiv.org/pdf/2310.14780)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.14780)
 
++ [ MotionFollower ](https://arxiv.org/pdf/2405.20325)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.2032)
+
++ [ 3DHM ](https://arxiv.org/html/2401.10889v1)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2401.10889v1)
+
++ [ Animate-X ](https://arxiv.org/abs/2410.10306)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10306)
+
+
 
 
 
