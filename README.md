@@ -13,7 +13,7 @@
 
 ## :collision: Highlights
 - 2024.07.12: The Survey Paper is Online on [arXiv](https://arxiv.org/abs/2407.08428).
-- 2024.06.5: Awesome Human Video Generation Repository Started.
+- 2024.06.05: Our Awesome Human Video Generation Repository Started.
 
 ## Human Body Video Demo  
 
