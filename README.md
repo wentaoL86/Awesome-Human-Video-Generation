@@ -12,6 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
+- 2026.09.10: Refreshed the list with recent half/full-body human video generation papers across Pose Guided, Dance, Co-Speech, Applications, and Datasets.
 - 2024.07.12: The Survey Paper is Online on [arXiv](https://arxiv.org/abs/2407.08428).
 - 2024.06.05: Our Awesome Human Video Generation Repository Started.
 
@@ -90,7 +91,7 @@ If you find our work useful in your research, please consider citing:
   
 ## Text Guided Human Video Generation
 + [HMTV (WACV 2024)](https://github.com/CSJasper/HMTV)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Human_Motion_Aware_Text-to-Video_Generation_With_Explicit_Camera_Control_WACV_2024_paper.pdf2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Human_Motion_Aware_Text-to-Video_Generation_With_Explicit_Camera_Control_WACV_2024_paper.pdf)
   [![Star](https://img.shields.io/github/stars/CSJasper/HMTV.svg?style=social&label=Star)](https://github.com/CSJasper/HMTV)
 
 + [SignLLM](https://signllm.github.io/)
@@ -108,6 +109,22 @@ If you find our work useful in your research, please consider citing:
 + [DanceIt (TIP 2021)](https://arxiv.org/pdf/2009.08027)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2009.08027)
   [![Star](https://img.shields.io/github/stars/iCVTEAM/DanceIt.svg?style=social&label=Star)](https://github.com/iCVTEAM/DanceIt)
+
+
++ [X-Dancer (ICCV 2025 Highlight)](https://zeyuan-chen.com/X-Dancer/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17414)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zeyuan-chen.com/X-Dancer/)
+
++ [ChoreoMuse (ACM MM 2025)](https://choreomuse.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19836)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://choreomuse.github.io)
+
++ [DanceTogether! (arXiv 2025)](https://DanceTog.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.18078)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://DanceTog.github.io/)
+
++ [DANCER (arXiv 2025)](https://arxiv.org/abs/2510.27169)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.27169)
 ### Performance Video Generation
 + [Music2Play (CAC 2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
@@ -120,8 +137,29 @@ If you find our work useful in your research, please consider citing:
 
 + [ANGIE (NeurIPS 2022)](https://github.com/alvinliu0/ANGIE)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2212.02350)
-  [![Star](https://img.shields.io/github/stars/alvinliu0/ANGIE.svg?style=social&label=Star)](https://github.com/alvinliu0/ANGIEn)
+  [![Star](https://img.shields.io/github/stars/alvinliu0/ANGIE.svg?style=social&label=Star)](https://github.com/alvinliu0/ANGIE)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://alvinliu0.github.io/projects/ANGIE)
+
++ [CyberHost (ICLR 2025 Oral)](https://cyberhost.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01876)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cyberhost.github.io/)
+
++ [EchoMimicV2 (CVPR 2025)](https://github.com/antgroup/echomimic_v2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10061)
+  [![Star](https://img.shields.io/github/stars/antgroup/echomimic_v2.svg?style=social&label=Star)](https://github.com/antgroup/echomimic_v2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://antgroup.github.io/ai/echomimic_v2/)
+
++ [IMAE — Co-Speech Gesture Video Generation with Implicit Motion-Audio Entanglement (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Co-Speech_Gesture_Video_Generation_with_Implicit_Motion-Audio_Entanglement_CVPR_2025_paper.html)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Co-Speech_Gesture_Video_Generation_with_Implicit_Motion-Audio_Entanglement_CVPR_2025_paper.html)
+  [![Star](https://img.shields.io/github/stars/abcdvzz/imae-open-source.svg?style=social&label=Star)](https://github.com/abcdvzz/imae-open-source/)
+
++ [Cosh-DiT (arXiv 2025)](https://sunyasheng.github.io/projects/COSH-DIT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09942)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sunyasheng.github.io/projects/COSH-DIT)
+
++ [Democratizing High-Fidelity Co-Speech Gesture Video Generation (ICCV 2025)](https://mpi-lab.github.io/Democratizing-CSG/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06812)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mpi-lab.github.io/Democratizing-CSG/)
 
 ## Pose Guided Human Video Generation
 
@@ -134,7 +172,7 @@ If you find our work useful in your research, please consider citing:
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1807.11152v1)
 
 + [DwNet](https://arxiv.org/pdf/1910.09139)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1910.091396)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1910.09139)
   [![Star](https://img.shields.io/github/stars/ubc-vision/DwNet.svg?style=social&label=Star)](https://github.com/ubc-vision/DwNet)
 
 + [Animateanyone](https://arxiv.org/pdf/2311.17117)
@@ -228,7 +266,7 @@ If you find our work useful in your research, please consider citing:
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.14780)
 
 + [ MotionFollower ](https://arxiv.org/pdf/2405.20325)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.2032)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.20325)
 
 + [ 3DHM ](https://arxiv.org/html/2401.10889v1)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2401.10889v1)
@@ -244,7 +282,121 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19580)
 
 
++ [StableAnimator (CVPR 2025)](https://github.com/Francis-Rings/StableAnimator)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17697)
+  [![Star](https://img.shields.io/github/stars/Francis-Rings/StableAnimator.svg?style=social&label=Star)](https://github.com/Francis-Rings/StableAnimator)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://francis-rings.github.io/StableAnimator/)
 
++ [StableAnimator++ (arXiv 2025)](https://francis-rings.github.io/StableAnimator++/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.15064)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://francis-rings.github.io/StableAnimator++/)
+
++ [X-Dyna (CVPR 2025 Highlight)](https://github.com/bytedance/X-Dyna)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10021)
+  [![Star](https://img.shields.io/github/stars/bytedance/X-Dyna.svg?style=social&label=Star)](https://github.com/bytedance/X-Dyna)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://x-dyna.github.io/xdyna.github.io/)
+
++ [DisPose (ICLR 2025)](https://github.com/lihxxx/DisPose)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09349)
+  [![Star](https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star)](https://github.com/lihxxx/DisPose)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lihxxx.github.io/DisPose/)
+
++ [DreamDance (arXiv 2024)](https://arxiv.org/abs/2412.00397)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00397)
+
++ [TPC (NeurIPS 2024)](https://arxiv.org/abs/2410.24037)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.24037)
+
++ [ControlNeXt (arXiv 2024)](https://github.com/JIA-Lab-research/ControlNeXt)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06070)
+  [![Star](https://img.shields.io/github/stars/JIA-Lab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/JIA-Lab-research/ControlNeXt)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pbihao.github.io/projects/controlnext/index.html)
+
++ [DreamActor-M1 (arXiv 2025)](https://grisoon.github.io/DreamActor-M1/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.01724)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://grisoon.github.io/DreamActor-M1/)
+
++ [DynamiCtrl (arXiv 2025)](https://github.com/gulucaptain/DynamiCtrl)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21246)
+  [![Star](https://img.shields.io/github/stars/gulucaptain/DynamiCtrl.svg?style=social&label=Star)](https://github.com/gulucaptain/DynamiCtrl)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gulucaptain.github.io/DynamiCtrl/)
+
++ [UniAnimate-DiT (arXiv 2025)](https://github.com/ali-vilab/UniAnimate-DiT)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289)
+  [![Star](https://img.shields.io/github/stars/ali-vilab/UniAnimate-DiT.svg?style=social&label=Star)](https://github.com/ali-vilab/UniAnimate-DiT)
+
++ [Taming Consistency Distillation for Accelerated Human Image Animation (arXiv 2025)](https://arxiv.org/abs/2504.11143)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11143)
+
++ [HumanDiT (arXiv 2025)](https://agnjason.github.io/HumanDiT-page/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04847)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://agnjason.github.io/HumanDiT-page/)
+
++ [AnimateAnywhere (arXiv 2025)](https://github.com/liuxiaoyu1104/AnimateAnywhere)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19834)
+  [![Star](https://img.shields.io/github/stars/liuxiaoyu1104/AnimateAnywhere.svg?style=social&label=Star)](https://github.com/liuxiaoyu1104/AnimateAnywhere)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://animateanywhere.github.io/)
+
++ [Multi-identity Human Image Animation with Structural Video Diffusion (ICCV 2025)](https://arxiv.org/abs/2504.04126)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04126)
+
++ [AnyCharV (arXiv 2025)](https://anycharv.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://anycharv.github.io)
+
++ [Animate-X++ (arXiv 2025)](https://lucaria-academy.github.io/Animate-X++/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09454)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lucaria-academy.github.io/Animate-X++/)
+
++ [PoseGen (CVPR 2026 Findings)](https://github.com/Jessie459/PoseGen)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05091)
+  [![Star](https://img.shields.io/github/stars/Jessie459/PoseGen.svg?style=social&label=Star)](https://github.com/Jessie459/PoseGen)
+
++ [Wan-Animate (arXiv 2025)](https://github.com/Wan-Video/Wan2.2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.14055)
+  [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.2.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-animate/)
+
++ [Wan-Animate-2 (arXiv 2026)](https://github.com/Wan-Video/Wan-Animate-2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.06009)
+  [![Star](https://img.shields.io/github/stars/Wan-Video/Wan-Animate-2.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan-Animate-2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-animate-2/)
+
++ [SteadyDancer (arXiv 2025)](https://github.com/MCG-NJU/SteadyDancer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.19320)
+  [![Star](https://img.shields.io/github/stars/MCG-NJU/SteadyDancer.svg?style=social&label=Star)](https://github.com/MCG-NJU/SteadyDancer)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mcg-nju.github.io/steadydancer-web/)
+
++ [SCAIL (CVPR 2026 Findings)](https://github.com/zai-org/SCAIL)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.05905)
+  [![Star](https://img.shields.io/github/stars/zai-org/SCAIL.svg?style=social&label=Star)](https://github.com/zai-org/SCAIL)
+
++ [SCAIL-2 (arXiv 2026)](https://github.com/zai-org/SCAIL-2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10804)
+  [![Star](https://img.shields.io/github/stars/zai-org/SCAIL-2.svg?style=social&label=Star)](https://github.com/zai-org/SCAIL-2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://teal024.github.io/SCAIL-2/)
+
++ [One-to-All Animation (arXiv 2025)](https://ssj9596.github.io/one-to-all-animation-project/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.22940)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ssj9596.github.io/one-to-all-animation-project/)
+
++ [PoseAnything (arXiv 2025)](https://arxiv.org/abs/2512.13465)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.13465)
+
++ [MultiAnimate (CVPR 2026)](https://hyc001.github.io/MultiAnimate/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21581)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hyc001.github.io/MultiAnimate/)
+
++ [FreeAnimate (ICASSP 2026)](https://arxiv.org/abs/2606.06885)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06885)
+
++ [High-Fidelity and Long-Duration Human Image Animation with Diffusion Transformer (arXiv 2025)](https://arxiv.org/abs/2512.21905)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.21905)
+
++ [PoseFuse3D-KI (NeurIPS 2025)](https://github.com/GSeanCDAT/PoseFuse3D-KI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.03119)
+  [![Star](https://img.shields.io/github/stars/GSeanCDAT/PoseFuse3D-KI.svg?style=social&label=Star)](https://github.com/GSeanCDAT/PoseFuse3D-KI)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gseancdat.github.io/projects/PoseFuse3D_KI)
 
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
@@ -260,6 +412,11 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 + [Runway](https://runwayml.com/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/)
 
++ [Wan2.2-Animate / Wan-Animate](https://github.com/Wan-Video/Wan2.2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-animate/)
+
++ [Wan-Animate-2](https://github.com/Wan-Video/Wan-Animate-2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-animate-2/)
 
 ### Datasets
 + [Text2performer](https://drive.google.com/drive/folders/1NFd_irnw8kgNcu5KfWhRA8RZPdBK5p1I)
@@ -283,3 +440,17 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 + [Disco](https://drive.google.com/file/d/1N9gioWnkb3ZZytmT3Nzx4VjXjHxLsVB9/view)
 + [Sub-URMP](https://www.cs.rochester.edu/~cxu22/d/vagan/)
 + [URMP](https://labsites.rochester.edu/air/projects/URMP.html)
+
++ [HumanVid (NeurIPS D&B 2024)](https://github.com/zhenzhiwang/humanvid)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17438)
+  [![Star](https://img.shields.io/github/stars/zhenzhiwang/humanvid.svg?style=social&label=Star)](https://github.com/zhenzhiwang/humanvid)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanvid.github.io/)
+
++ [HyperMotionX (arXiv 2025)](https://github.com/vivoCameraResearch/Hyper-Motion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22977)
+  [![Star](https://img.shields.io/github/stars/vivoCameraResearch/Hyper-Motion.svg?style=social&label=Star)](https://github.com/vivoCameraResearch/Hyper-Motion)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vivocameraresearch.github.io/hypermotion/)
+
++ [CSG-405 (with Democratizing CSG, ICCV 2025)](https://mpi-lab.github.io/Democratizing-CSG/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06812)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mpi-lab.github.io/Democratizing-CSG/)
