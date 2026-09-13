@@ -12,6 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
+- 2026.09.13: Added recent dance / pose-guided entries (Wan-Dancer, OmniDance, FlowDance, MACE-Dance, LiveAnimate, HVG) and the CIPE-Dance dataset.
 - 2026.09.10: Refreshed the list with recent half/full-body human video generation papers across Pose Guided, Dance, Co-Speech, Applications, and Datasets.
 - 2024.07.12: The Survey Paper is Online on [arXiv](https://arxiv.org/abs/2407.08428).
 - 2024.06.05: Our Awesome Human Video Generation Repository Started.
@@ -125,6 +126,23 @@ If you find our work useful in your research, please consider citing:
 
 + [DANCER (arXiv 2025)](https://arxiv.org/abs/2510.27169)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.27169)
+
++ [Wan-Dancer (arXiv 2026)](https://github.com/Wan-Video/Wan-Dancer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.09581)
+  [![Star](https://img.shields.io/github/stars/Wan-Video/Wan-Dancer.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan-Dancer)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-dancer-project/)
+
++ [OmniDance (arXiv 2026)](https://github.com/AMAP-ML/OmniDance)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.30019)
+  [![Star](https://img.shields.io/github/stars/AMAP-ML/OmniDance.svg?style=social&label=Star)](https://github.com/AMAP-ML/OmniDance)
+
++ [FlowDance (arXiv 2026)](https://ghost-love-you.github.io/Projects/FlowDance)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15818)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ghost-love-you.github.io/Projects/FlowDance)
+
++ [MACE-Dance (arXiv 2025)](https://arxiv.org/abs/2512.18181)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18181)
+
 ### Performance Video Generation
 + [Music2Play (CAC 2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
@@ -398,6 +416,14 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
   [![Star](https://img.shields.io/github/stars/GSeanCDAT/PoseFuse3D-KI.svg?style=social&label=Star)](https://github.com/GSeanCDAT/PoseFuse3D-KI)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gseancdat.github.io/projects/PoseFuse3D_KI)
 
++ [LiveAnimate (arXiv 2026)](https://github.com/liveanimate/LiveAnimate)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11745)
+  [![Star](https://img.shields.io/github/stars/liveanimate/LiveAnimate.svg?style=social&label=Star)](https://github.com/liveanimate/LiveAnimate)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://liveanimate.github.io/)
+
++ [HVG — Human Video Generation from a Single Image with 3D Pose and View Control (arXiv 2026)](https://arxiv.org/abs/2602.21188)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21188)
+
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kling.kuaishou.com/)
@@ -417,6 +443,9 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 
 + [Wan-Animate-2](https://github.com/Wan-Video/Wan-Animate-2)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-animate-2/)
+
++ [Wan-Dancer](https://github.com/Wan-Video/Wan-Dancer)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-dancer-project/)
 
 ### Datasets
 + [Text2performer](https://drive.google.com/drive/folders/1NFd_irnw8kgNcu5KfWhRA8RZPdBK5p1I)
@@ -454,3 +483,7 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 + [CSG-405 (with Democratizing CSG, ICCV 2025)](https://mpi-lab.github.io/Democratizing-CSG/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06812)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mpi-lab.github.io/Democratizing-CSG/)
+
++ [CIPE-Dance (with OmniDance, arXiv 2026)](https://github.com/AMAP-ML/OmniDance)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.30019)
+  [![Star](https://img.shields.io/github/stars/AMAP-ML/OmniDance.svg?style=social&label=Star)](https://github.com/AMAP-ML/OmniDance)
