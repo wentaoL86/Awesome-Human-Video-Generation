@@ -12,6 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
+- 2026.09.16: Added verified dance / text / pose entries (MusicInfuser, SingDance, MoSA, PhyMotion, UniMoCa, EverAnimate, ReImagine).
 - 2026.09.13: Added recent dance / pose-guided entries (Wan-Dancer, OmniDance, FlowDance, MACE-Dance, LiveAnimate, HVG) and the CIPE-Dance dataset.
 - 2026.09.10: Refreshed the list with recent half/full-body human video generation papers across Pose Guided, Dance, Co-Speech, Applications, and Datasets.
 - 2024.07.12: The Survey Paper is Online on [arXiv](https://arxiv.org/abs/2407.08428).
@@ -104,6 +105,16 @@ If you find our work useful in your research, please consider citing:
   [![Star](https://img.shields.io/github/stars/yumingj/Text2Performer.svg?style=social&label=Star)](https://github.com/yumingj/Text2Performer)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yumingj.github.io/projects/Text2Performer.html)
 
++ [MoSA (ICLR 2026)](https://github.com/hywang2002/MoSA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.17404)
+  [![Star](https://img.shields.io/github/stars/hywang2002/MoSA.svg?style=social&label=Star)](https://github.com/hywang2002/MoSA)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hywang2002.github.io/MoSA/)
+
++ [PhyMotion (arXiv 2026)](https://github.com/h6kplus/PhyMotion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14269)
+  [![Star](https://img.shields.io/github/stars/h6kplus/PhyMotion.svg?style=social&label=Star)](https://github.com/h6kplus/PhyMotion)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://phy-motion.github.io/)
+
 ## Audio Guided Human Video Generation
 
 ### Dance Video Generation
@@ -142,6 +153,15 @@ If you find our work useful in your research, please consider citing:
 
 + [MACE-Dance (arXiv 2025)](https://arxiv.org/abs/2512.18181)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18181)
+
++ [MusicInfuser (CVPR 2026)](https://github.com/SusungHong/MusicInfuser)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14505)
+  [![Star](https://img.shields.io/github/stars/SusungHong/MusicInfuser.svg?style=social&label=Star)](https://github.com/SusungHong/MusicInfuser)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://susunghong.github.io/MusicInfuser/)
+
++ [SingDance (arXiv 2026)](https://fff-ttt.github.io/singdance-project-page/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16220)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://fff-ttt.github.io/singdance-project-page/)
 
 ### Performance Video Generation
 + [Music2Play (CAC 2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10450842)
@@ -423,6 +443,19 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 
 + [HVG — Human Video Generation from a Single Image with 3D Pose and View Control (arXiv 2026)](https://arxiv.org/abs/2602.21188)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21188)
+
++ [UniMoCa (arXiv 2026)](https://tanliming-daniel.github.io/UniMoCa/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01944)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tanliming-daniel.github.io/UniMoCa/)
+
++ [EverAnimate (arXiv 2026)](https://github.com/vita-epfl/EverAnimate)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15042)
+  [![Star](https://img.shields.io/github/stars/vita-epfl/EverAnimate.svg?style=social&label=Star)](https://github.com/vita-epfl/EverAnimate)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://everanimate.github.io/homepage/)
+
++ [ReImagine (arXiv 2026)](https://github.com/Taited/ReImagine)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19720)
+  [![Star](https://img.shields.io/github/stars/Taited/ReImagine.svg?style=social&label=Star)](https://github.com/Taited/ReImagine)
 
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
