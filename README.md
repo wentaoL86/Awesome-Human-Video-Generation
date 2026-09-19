@@ -12,6 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
+- 2026.09.19: Added verified pose / applications entries (RASA, PAI-Actor, EditaLive!, Vidu S2).
 - 2026.09.16: Added verified dance / text / pose entries (MusicInfuser, SingDance, MoSA, PhyMotion, UniMoCa, EverAnimate, ReImagine).
 - 2026.09.13: Added recent dance / pose-guided entries (Wan-Dancer, OmniDance, FlowDance, MACE-Dance, LiveAnimate, HVG) and the CIPE-Dance dataset.
 - 2026.09.10: Refreshed the list with recent half/full-body human video generation papers across Pose Guided, Dance, Co-Speech, Applications, and Datasets.
@@ -457,6 +458,11 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19720)
   [![Star](https://img.shields.io/github/stars/Taited/ReImagine.svg?style=social&label=Star)](https://github.com/Taited/ReImagine)
 
++ [RASA (ECCV 2026)](https://github.com/HiDream-ai/RASA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.28219)
+  [![Star](https://img.shields.io/github/stars/HiDream-ai/RASA.svg?style=social&label=Star)](https://github.com/HiDream-ai/RASA)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hidream-ai.github.io/RASA/)
+
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kling.kuaishou.com/)
@@ -479,6 +485,17 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 
 + [Wan-Dancer](https://github.com/Wan-Video/Wan-Dancer)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/wan-dancer-project/)
+
++ [PAI-Actor (arXiv 2026)](https://arxiv.org/abs/2609.05918)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05918)
+
++ [EditaLive! (arXiv 2026)](https://huai-chang.github.io/EditaLive/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27123)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huai-chang.github.io/EditaLive/)
+
++ [Vidu S2 (arXiv 2026)](https://vidu.com/vidu-stream)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.11638)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vidu.com/vidu-stream)
 
 ### Datasets
 + [Text2performer](https://drive.google.com/drive/folders/1NFd_irnw8kgNcu5KfWhRA8RZPdBK5p1I)
