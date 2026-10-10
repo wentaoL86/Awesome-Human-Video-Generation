@@ -12,6 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
+- 2026.10.10: Added verified pose / datasets entries (WeLike2Party, MotionTwin).
 - 2026.09.19: Added verified pose / applications entries (RASA, PAI-Actor, EditaLive!, Vidu S2).
 - 2026.09.16: Added verified dance / text / pose entries (MusicInfuser, SingDance, MoSA, PhyMotion, UniMoCa, EverAnimate, ReImagine).
 - 2026.09.13: Added recent dance / pose-guided entries (Wan-Dancer, OmniDance, FlowDance, MACE-Dance, LiveAnimate, HVG) and the CIPE-Dance dataset.
@@ -463,6 +464,10 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
   [![Star](https://img.shields.io/github/stars/HiDream-ai/RASA.svg?style=social&label=Star)](https://github.com/HiDream-ai/RASA)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hidream-ai.github.io/RASA/)
 
++ [WeLike2Party (arXiv 2026)](https://wl2pvideo.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.36937)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wl2pvideo.github.io/)
+
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kling.kuaishou.com/)
@@ -537,3 +542,8 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 + [CIPE-Dance (with OmniDance, arXiv 2026)](https://github.com/AMAP-ML/OmniDance)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.30019)
   [![Star](https://img.shields.io/github/stars/AMAP-ML/OmniDance.svg?style=social&label=Star)](https://github.com/AMAP-ML/OmniDance)
+
++ [MotionTwin (with WeLike2Party, arXiv 2026)](https://wl2pvideo.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.36937)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wl2pvideo.github.io/)
+
