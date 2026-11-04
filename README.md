@@ -12,6 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
+- 2026.11.04: Added verified pose entry (One Image Is Enough); upgraded MACE-Dance to SIGGRAPH 2026 with code.
 - 2026.10.31: Added verified dance / applications / datasets entries (MuseDance, WorldCast, CLACT).
 - 2026.10.10: Added verified pose / datasets entries (WeLike2Party, MotionTwin).
 - 2026.09.19: Added verified pose / applications entries (RASA, PAI-Actor, EditaLive!, Vidu S2).
@@ -154,8 +155,9 @@ If you find our work useful in your research, please consider citing:
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15818)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ghost-love-you.github.io/Projects/FlowDance)
 
-+ [MACE-Dance (arXiv 2025)](https://arxiv.org/abs/2512.18181)
++ [MACE-Dance (SIGGRAPH 2026)](https://github.com/AMAP-ML/MACE-Dance)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18181)
+  [![Star](https://img.shields.io/github/stars/AMAP-ML/MACE-Dance.svg?style=social&label=Star)](https://github.com/AMAP-ML/MACE-Dance)
 
 + [MusicInfuser (CVPR 2026)](https://github.com/SusungHong/MusicInfuser)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14505)
@@ -473,6 +475,10 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 + [WeLike2Party (arXiv 2026)](https://wl2pvideo.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.36937)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wl2pvideo.github.io/)
+
++ [One Image Is Enough (WACV 2027)](https://github.com/SadmanPinon/one-image-is-enough)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.02964)
+  [![Star](https://img.shields.io/github/stars/SadmanPinon/one-image-is-enough.svg?style=social&label=Star)](https://github.com/SadmanPinon/one-image-is-enough)
 
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
