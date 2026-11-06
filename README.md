@@ -209,6 +209,11 @@ If you find our work useful in your research, please consider citing:
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06812)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mpi-lab.github.io/Democratizing-CSG/)
 
++ [PAGE: Parts-Aware Guidance for Co-Speech Gesture Portrait Video Generation (TCSVT 2026)](https://aigc-explorer.github.io/PAGE/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.13301v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aigc-explorer.github.io/PAGE/)
+
+
 ## Pose Guided Human Video Generation
 
 + [FollowYourPose](https://github.com/mayuelala/followyourpose)
@@ -571,4 +576,8 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 + [CLACT (with WorldCast, arXiv 2026)](https://pixctrol.github.io/WorldCast/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.33135)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pixctrol.github.io/WorldCast/)
+
++ [CAS (TCSVT 2026)](https://huggingface.co/datasets/academic5000/CAS)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.13301v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aigc-explorer.github.io/PAGE/)
 
