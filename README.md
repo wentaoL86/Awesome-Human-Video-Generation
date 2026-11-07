@@ -12,6 +12,7 @@
 #### If you have any suggestions or comments to our project or survey, please feel free to contact: [wlei117@connect.hkust-gz.edu.cn](wlei117@connect.hkust-gz.edu.cn). 
 
 ## :collision: Highlights
+- 2026.11.07: Added verified pose entry (FUHA).
 - 2026.11.04: Added verified pose entry (One Image Is Enough); upgraded MACE-Dance to SIGGRAPH 2026 with code.
 - 2026.10.31: Added verified dance / applications / datasets entries (MuseDance, WorldCast, CLACT).
 - 2026.10.10: Added verified pose / datasets entries (WeLike2Party, MotionTwin).
@@ -479,6 +480,9 @@ Supervision and Motion Blur Condition ](https://arxiv.org/pdf/2409.19580)
 + [One Image Is Enough (WACV 2027)](https://github.com/SadmanPinon/one-image-is-enough)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.02964)
   [![Star](https://img.shields.io/github/stars/SadmanPinon/one-image-is-enough.svg?style=social&label=Star)](https://github.com/SadmanPinon/one-image-is-enough)
+
++ [FUHA (arXiv 2026)](https://arxiv.org/abs/2611.07481)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.07481)
 
 ### Applications
 + [Keling](https://kling.kuaishou.com/)
